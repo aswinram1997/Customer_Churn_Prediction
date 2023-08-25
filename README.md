@@ -3,7 +3,7 @@
 
 [My Streamlit app can be found here!](<https://insurancepremiumpredictionapp.streamlit.app>) 
 
-![pexels-mikhail-nilov-7731330](https://github.com/aswinram1997/DataScience_Portfolio/assets/102771069/b21d0440-5ca8-4ebc-9116-026cfe01b29c)
+![farrel-nobel-G9neENK1Z5I-unsplash](https://github.com/aswinram1997/Customer_Churn_Prediction/assets/102771069/8d866b16-2df3-48b2-a0eb-87e47beff7db)
 
 ## Project Overview
 E-commerce companies struggle to predict customer churn, making ML essential.  The [Kaggle Dataset](<https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?datasetId=1119908&sortBy=voteCount>) aids in creating a [Streamlit web app](<https://insurancepremiumpredictionapp.streamlit.app>) using object-oriented programming. This enables users to predict churn, understand reasons, and improve retention using both the churn prediction model adn the dashboard included in the Web Application. The app compares five models - logistic regression, SVM, Random Forest, XGBoost, and DNN, integrating the chosen model in the Web application. It offers accurate predictions and structured code for seamless updates, enhancing e-commerce with churn insights. 
